@@ -1,0 +1,562 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 767px) {
+    .navv{
+        display: none;   
+    }
+    .n-b-f{
+        gap: 13px;
+    }
+    .foooooot{
+        display: none;
+    }
+    .products{
+        display: none;
+    }
+
+
+
+
+    .i-pad{
+        background-color: white;
+
+    }
+    .air-pods{
+        background-color: #adc2d7;
+    
+    }
+    .macbook{
+        background-color: #ededed;
+        align-items: center;
+    }
+
+    .ipad-pic{
+        width: 230px;
+        height: 210px;
+        
+    }
+    .air-pic{
+        width: 230px;
+        height: 240px;
+        padding-left: 20px;
+    }
+    .mac-pic{
+        display: flex;
+        width: 330px;
+        justify-content: center;
+    }
+    .xxx{
+        background-color: #ededed;
+    }
+
+
+
+
+
+    .productss  {  justify-content: center; padding: 40px;  }
+
+
+
+
+
+    .p1{
+        height: 260px;
+        width: 290px;
+    }
+    .pic3{
+        display: flex;
+        justify-content: end;
+    }
+    .div3{
+        align-items: center;
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pic2{
+        text-align: center;
+    }
+
+
+
+
+
+    .p1{
+        height: 200px;
+        width: 200px;
+    }
+    .pic3{
+        display: flex;
+    }
+    .pic1{
+        padding-bottom: 50px;
+    }
+    .pic3{
+        padding-top: 50px;
+    }
+    .pic2{
+        text-align: center;
+    }
+    .div3{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .p1{
+        margin-right: 110px;
+    }
+
+
+
+    /* here is the browes by catagory */
+    .brows-icn{font-size: 90px; padding-bottom: 10px; padding-left: 23px; padding-right: 23px;}
+    .brows-icnn{font-size: 90px; padding-bottom: 10px; padding-left: 30px; padding-right: 30px;}
+    .brows-icnnn{font-size: 90px; padding-bottom: 10px; padding-left: 35px; padding-right: 35px;}
+
+    .brows{padding-top: 25px;}
+    .productss{padding-top: 3px;}
+
+    .h{background-color: #ededed; border-radius: 9px; padding-bottom: 7px; text-align: center; padding-top: 15px; margin: 300px;}
+
+    .hh{background-color: #ededed; border-radius: 9px; padding-bottom: 7px; text-align: center; padding-top: 15px; margin: 300px;}
+
+
+    /* here is the code for cards */
+
+    .ww{margin-left: 20px; padding-right: 20px;}
+
+    .n-b-f{ gap: 25px; padding-top: 50px; }
+
+    .abc{font-size: 17px;}
+    .iphn{ height: 180px; width: 170px; margin-top: 40px; margin-bottom: 20px;}
+    .iphnn{ height: 180px; width: 170px; margin-top: 40px; margin-bottom: 20px;}
+
+
+    /* here is the11 11 */
+
+    .p1{
+        height: 185px;
+        width: 265px;
+    }
+    .p2{height: 190px; width: 290px;}
+
+    .div3{
+        background-color: #958ad4;
+        padding-bottom: 40px;
+    }
+
+
+
+
+
+    /* here is the footer  */
+
+
+    .fot-mob{padding-top: 40px; background-color: #1e1e1e; color: white;}
+    .logo-m{padding-bottom: 30px;}
+    .write{padding-bottom: 30px;}
+    .write1{padding-bottom: 33px;}
+    .lo-icn{padding-bottom: 36px;}
+}
+
+
+
+
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .nv{
+        display: none;
+    }
+    .fot-mob{
+        display: none;
+    }
+    .products-mob{
+        display: none;
+    }
+
+
+
+
+    .navber{
+
+        background-color: #1a187a;
+        align-items: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+        gap: 13px;
+        color: white;
+    }
+    .logo{
+        width: 130px;
+    }
+    .but{
+        height: 30px;
+        width: 200px;
+    }
+    .menu{
+        display: none;
+        gap: 14px;
+        padding-left: 13px;
+    }
+    .icons{
+        padding-left: 13px;
+    }
+    .usr{
+        padding-left: 13px;
+    }
+    .navv{
+        background-color: #1a187a;
+        
+    }
+    .c1{
+        background-color: blac;
+    }
+
+
+
+
+    .p1{
+        height: 200px;
+        width: 200px;
+    }
+    .pic3{
+        display: flex;
+        justify-content: end;
+    }
+    .div3{
+        align-items: center;
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .pic2{
+        text-align: center;
+    }
+
+
+    .foot-rght{
+        gap: 25px;
+    }
+    .iq{
+        font-size: 23px;
+        margin: 7px;
+    }
+    .foot-lft {
+        gap: 25px;
+    }
+
+
+
+        /* here is the 3 products css mac, air and ipad9 */
+        .ipd{
+            width: 330px;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            margin-right: 80px;
+        }
+        .writee{
+            font-size: 15px;
+        }
+        .h-phn{
+            width: 240px;
+            margin: 10px;
+            margin-right: 130px;
+            padding-left: 30px;
+        }
+        .iippdd{
+            gap: 1px;
+        
+        }
+        .ipd-w{
+            padding: 40px;
+        }
+        .products{
+            justify-content: center;
+            align-items: center;
+            background-color: #ededed;
+        }
+        .i-pad{
+            background-color: white;
+            align-items: center;
+        }
+        .air-pods{
+            background-color: #adc2d7;
+            align-items: center;
+        }
+        .wr1{
+            font-size: 35px;
+        }
+        .macbook{
+            display: flex;
+            background-color: #ededed;
+            align-items: center;
+        }
+        .mac{
+            width: 400px;
+        }
+        .shop{
+            padding: 10px;
+            padding-left: 35px;
+            padding-right: 35px;
+            color: white;
+            border-radius: 7px;
+            background-color: #27448e;
+        }
+
+
+
+    /* here is the 11 11 */
+
+    .p1{
+        height: 170px;
+        width: 250px;
+    }
+    .p2{height: 150px; width: 250px;}
+
+    .div3{
+        background-color: #958ad4;
+        align-items: center;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    
+}
+
+
+
+
+
+
+/*(laptops small screen) */
+@media only screen and (min-width: 992px) and (max-width: 1439px) {
+    .nv{
+        display: none;
+    }
+    .fot-mob{
+        display: none;
+    }
+    .products-mob{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .navber{
+
+        background-color: #1a187a;
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        gap: 20px;
+        color: white;
+    }
+    .logo{
+        width: 220px;
+    }
+    .but{
+        height: 50px;
+        width: 300px;
+    }
+    .menu{
+        gap: 20px;
+        padding-left: 20px;
+    }
+    .icons{
+        padding-left: 20px;
+    }
+    .usr{
+        padding-left: 20px;
+    }
+    .navv{
+        background-color: #1a187a;
+    }
+
+    .foot-rght{
+        gap: 120px;
+    }
+
+
+
+
+
+
+    /* here is the 3 products css mac, air and ipad9 */
+
+
+    .ipd{
+        width: 230px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        margin-right: 40px;
+    }
+    .writee{
+        font-size: 15px;
+    }
+    .h-phn{
+        width: 190px;
+        margin: 0px;
+        margin-right: 80px;
+        padding-left: 15px;
+    }
+    .iippdd{
+        gap: px;
+    
+    }
+    .ipd-w{
+        padding-left: 0px;
+    }
+    .products{
+        justify-content: center;
+        align-items: center;
+        background-color: #ededed;
+    }
+    .i-pad{
+        background-color: white;
+        align-items: center;
+    }
+    .air-pods{
+        background-color: #adc2d7;
+        align-items: center;
+    }
+    .wr1{
+        font-size: 70px;
+    }
+    .wr11{
+        font-size: 40px;
+    }
+    .macbook{
+        text-align: center;
+        background-color: #ededed;
+        align-items: center;
+    }
+    .mac{
+        width: 330px;
+    }
+    .shop{
+        padding: 10px;
+        padding-left: 35px;
+        padding-right: 35px;
+        color: white;
+        border-radius: 7px;
+        background-color: #27448e;
+    }
+
+
+    /* here is the 11 11 */
+
+    .p1{
+        height: 230px;
+        width: 300px;
+    }
+    .p2{height: 230px; width: 350px;}
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+/*(laptops large screen) */
+@media only screen and (min-width: 1440px) {
+    .nv{
+        display: none;
+    }
+    .llgo{
+        padding-left: 30px;
+    }
+    .fot-mob{
+        display: none;
+    }
+    .products-mob{
+        display: none;
+    }
+
+
+
+
+
+    /* here is the 3 products css mac, air and ipad9 */
+    .ipd{
+        width: 330px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+        margin-right: 80px;
+    }
+    .writee{
+        font-size: 15px;
+    }
+    .h-phn{
+        width: 240px;
+        margin: 10px;
+        margin-right: 130px;
+        padding-left: 30px;
+    }
+    .iippdd{
+        gap: 1px;
+    
+    }
+    .ipd-w{
+        padding: 40px;
+    }
+    .products{
+        justify-content: center;
+        align-items: center;
+        background-color: #ededed;
+    }
+    .i-pad{
+        background-color: white;
+        align-items: center;
+    }
+    .air-pods{
+        background-color: #adc2d7;
+        align-items: center;
+    }
+    .wr{
+        font-size: 35px;
+    }
+    .macbook{
+        display: flex;
+        background-color: #ededed;
+        align-items: center;
+    }
+    .mac{
+        width: 400px;
+    }
+    .shop{
+        padding: 10px;
+        padding-left: 35px;
+        padding-right: 35px;
+        color: white;
+        border-radius: 7px;
+        background-color: #27448e;
+    }
+
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 700px) and (max-width : 1500px){
+
+}
